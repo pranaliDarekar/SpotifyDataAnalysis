@@ -2,6 +2,7 @@
 These are mini project on data Analysis using python library like Pandas, matplotlib, Seaborn
 
 ![image](https://github.com/user-attachments/assets/9d34fda5-e3cd-44a7-b249-c4d335287fc0)
+[![Power BI Dashboard Preview](./demo.png)](https://app.powerbi.com/view?r=eyJrIjoiNzNmMTVkYTYtZTQ3Ni00NDdlLWI5NTEtOTI1MmRmN2RjNDMwIiwidCI6IjhkMWE2OWVjLTAzYjUtNDM0NS1hZTIxLWRhZDExMmY1ZmI0ZiIsImMiOjN9)
 
 Project Title: Spotify Music Analysis
 1. Introduction and Objective:
